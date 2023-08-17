@@ -10,7 +10,7 @@ If you share my excitement for coding and problem-solving, let's connect and nav
 
 - 🔭 Currently mastering Java Spring Boot applications, crafting robust solutions that bring smiles. 💻
 - 🌱 Exploring parallel and distributed computing, aiming for optimized performance and scalability. 🚀🌐
-- 👯 Let's collaborate on parallel processing, distributed systems, and top-notch software. Let's create something extraordinary!🤝👨‍💼
+- 👯 Let's collaborate on parallel processing, distributed systems, and top-notch software to create something extraordinary!🤝👨‍💼
 - 🤔 Eager to learn Continuous Integration and Deployment (CI/CD) practices. Share your wizardry! 🧙‍♂️🛠️
 - 💬 Ask me about Java, Spring Boot, and coding practices. Let's chat debugging and tech trends! 💬🧠
 - 📫 Reach me: 🦉 Email: [ali.panjwani01@gmail.com](mailto:panjwani.ali01@gmail.com), or via LinkedIn: [Ali Panjwani](https://linkedin.com/in/ali-panjwani). Let's geek out! 🌐📧
